@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "2.1",
+  "versionCode": 5,
+  "versionName": "2.2",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Adds the Update button in Settings."
+  "notes": "Fixes the crash when swiping an empty home screen. Bigger orange RTS, slowly shifting orange background, particles when tickets are acknowledged, closed or removed, and a Remove button on ticket details."
 }
