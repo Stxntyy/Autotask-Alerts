@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "2.2",
+  "versionCode": 6,
+  "versionName": "2.3",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Fixes the crash when swiping an empty home screen. Bigger orange RTS, slowly shifting orange background, particles when tickets are acknowledged, closed or removed, and a Remove button on ticket details."
+  "notes": "Removes the glow behind RTS. Glass bar, panels and ticket cards are much clearer, with soft edges instead of hard outlines."
 }
