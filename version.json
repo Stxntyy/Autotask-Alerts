@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "3.4",
+  "versionCode": 17,
+  "versionName": "3.5",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Call check log in Settings > RingCentral: shows when the app is watching for calls, each call it saw ringing, and whether it sounded or why not."
+  "notes": "Messages tab is now Notifications, split into Teams messages and Ticket received, each with a swirling runic count of what's outstanding."
 }
