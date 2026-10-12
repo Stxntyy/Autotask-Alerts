@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "2.7",
+  "versionCode": 11,
+  "versionName": "2.8",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "The Sean tab is now Messages, for anyone your Teams messages flow forwards. Includes RingCentral controls and Ticket received email alerts."
+  "notes": "Ticket received emails and ringing RingCentral calls (queue and on-call hours) now sound even when the phone is on silent. Toggles in Settings > RingCentral."
 }
