@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "2.5",
+  "versionCode": 9,
+  "versionName": "2.6",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Alerts for your Outlook Ticket received folder during queue hours (5-6 PM weekdays) and on-call hours. Includes 2.4: back-to-home fix, solid front card, Sean tab."
+  "notes": "RingCentral controls in Settings: take all calls, queue calls off, Do not disturb, and automatic queue hours. Includes the Ticket received email alerts and Sean tab."
 }
