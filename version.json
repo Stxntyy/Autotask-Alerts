@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "3.2",
+  "versionCode": 15,
+  "versionName": "3.3",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Faster stone changes, a numbered 1-10 jump bar above the tabs, and camera control in the castle: drag the top half of the screen or use a second finger to look around."
+  "notes": "Status and navigation bars now match the frosty blue background, and stones and the jump bar keep clear of the edges on narrow screens like the Fold cover display."
 }
