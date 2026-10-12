@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "3.1",
+  "versionCode": 14,
+  "versionName": "3.2",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Smoother snow-capped rune stones with tighter text, an icy burst that shoots the stone into its page with buttons floating in on magic, everything falling away on Back, and small glowing runic frames on buttons and panels."
+  "notes": "Faster stone changes, a numbered 1-10 jump bar above the tabs, and camera control in the castle: drag the top half of the screen or use a second finger to look around."
 }
