@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "2.6",
+  "versionCode": 10,
+  "versionName": "2.7",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "RingCentral controls in Settings: take all calls, queue calls off, Do not disturb, and automatic queue hours. Includes the Ticket received email alerts and Sean tab."
+  "notes": "The Sean tab is now Messages, for anyone your Teams messages flow forwards. Includes RingCentral controls and Ticket received email alerts."
 }
