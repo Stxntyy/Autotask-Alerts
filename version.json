@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "3.5",
+  "versionCode": 18,
+  "versionName": "3.6",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Messages tab is now Notifications, split into Teams messages and Ticket received, each with a swirling runic count of what's outstanding."
+  "notes": "Three full-width tabs with the castle hidden behind a swipe right on the bar, and a tidier Settings: updates only appear when one is available, Tickets on top, and folding RingCentral, Timing and Advanced sections."
 }
