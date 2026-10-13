@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "3.7",
+  "versionCode": 20,
+  "versionName": "3.8",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Access token support (Settings > Advanced) for a private, self-hosted alert server."
+  "notes": "Hold a ticket stone to pick it up, then drag it left into the grey vacuum to acknowledge or right into the red-purple portal to remove."
 }
