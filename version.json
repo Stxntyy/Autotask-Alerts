@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "3.21",
+  "versionCode": 34,
+  "versionName": "3.22",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Swipe a Ticket received email or Teams message sideways to delete it."
+  "notes": "Ringing RingCentral calls now show on John's Portal, all through work hours."
 }
