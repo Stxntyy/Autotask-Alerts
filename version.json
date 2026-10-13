@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "3.8",
+  "versionCode": 21,
+  "versionName": "3.9",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Hold a ticket stone to pick it up, then drag it left into the grey vacuum to acknowledge or right into the red-purple portal to remove."
+  "notes": "Holding a stone now gathers swirling snow that streams toward the vacuum or portal, the side options sit fully on screen, and tapping a tab (also from inside a ticket) takes you back to that tab's front page."
 }
