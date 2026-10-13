@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "3.18",
+  "versionCode": 31,
+  "versionName": "3.19",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Ticket Desk sync: BRB / Lunch / back stay in step with the work dashboard on your PC."
+  "notes": "Settings sync with Ticket Desk: edit alert hours, on call, RingCentral and lunch settings from the page."
 }
