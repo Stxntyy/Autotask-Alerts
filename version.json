@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "3.9",
+  "versionCode": 22,
+  "versionName": "3.10",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Holding a stone now gathers swirling snow that streams toward the vacuum or portal, the side options sit fully on screen, and tapping a tab (also from inside a ticket) takes you back to that tab's front page."
+  "notes": "Fixes the hard cut-off at both screen edges on the home page, and makes the vacuum and portal bigger."
 }
