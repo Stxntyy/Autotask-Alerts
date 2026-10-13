@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "3.12",
+  "versionCode": 25,
+  "versionName": "3.13",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "The app now checks for updates in the background and sends a notification when a new version is ready."
+  "notes": "Stepping away: BRB and Lunch buttons that post to your Teams status chat, with 5-minute lunch and back prompts."
 }
