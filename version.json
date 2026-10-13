@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "3.19",
+  "versionCode": 32,
+  "versionName": "3.20",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Settings sync with Ticket Desk: edit alert hours, on call, RingCentral and lunch settings from the page."
+  "notes": "Ticket received: tap Show full email to read the whole email."
 }
