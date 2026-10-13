@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "3.16",
+  "versionCode": 29,
+  "versionName": "3.17",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Stepping away: also sends the lunch end time in UTC and minutes left, for setting Teams presence."
+  "notes": "Stepping away: schedule lunch (or back) from the app, and cancel a scheduled one."
 }
