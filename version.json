@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "3.14",
+  "versionCode": 27,
+  "versionName": "3.15",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Stepping away: lunch and flow settings moved to Settings; manual Lunch ends after an hour (asked first); prompts repeat every minute, last one quietly sounds; BRB reminds every 2 minutes."
+  "notes": "Stepping away: sends your real back time with Lunch, and lunch is lowercase."
 }
