@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "3.20",
+  "versionCode": 33,
+  "versionName": "3.21",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Ticket received: tap Show full email to read the whole email."
+  "notes": "Swipe a Ticket received email or Teams message sideways to delete it."
 }
