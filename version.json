@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "3.10",
+  "versionCode": 23,
+  "versionName": "3.11",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Fixes the hard cut-off at both screen edges on the home page, and makes the vacuum and portal bigger."
+  "notes": "The vacuum and portal now glow from the very edges of the screen, and acknowledged tickets clear themselves after 1 hour (changeable in Settings > Tickets)."
 }
