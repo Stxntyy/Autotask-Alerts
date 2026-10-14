@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "3.22",
+  "versionCode": 35,
+  "versionName": "3.23",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Ringing RingCentral calls now show on John's Portal, all through work hours."
+  "notes": "Tickets you open on John's Portal are acknowledged here too."
 }
