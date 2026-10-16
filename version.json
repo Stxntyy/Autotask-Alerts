@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "3.23",
+  "versionCode": 36,
+  "versionName": "3.24",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Tickets you open on John's Portal are acknowledged here too."
+  "notes": "New look matching John's Portal, Clear all for Teams messages and Ticket received with a nightly 10 PM clear, and the Ticket received hours shown match your settings."
 }
