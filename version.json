@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "3.25",
+  "versionCode": 39,
+  "versionName": "3.27",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "New app icon: an orange RTS."
+  "notes": "Notifications group by type (Teams, Ticket received, Tickets). Call queue switch on the portal now turns your RingCentral queues on and off."
 }
