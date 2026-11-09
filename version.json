@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "3.27",
+  "versionCode": 40,
+  "versionName": "3.28",
   "apk": "https://raw.githubusercontent.com/stxntyy/autotask-alerts/main/AutotaskAlerts.apk",
-  "notes": "Notifications group by type (Teams, Ticket received, Tickets). Call queue switch on the portal now turns your RingCentral queues on and off."
+  "notes": "Tickets show as a scrolling list (tap to open, swipe left to acknowledge, right to remove). A plain 'Your phone is ringing' notification during work hours. Your own outgoing calls no longer alert as ringing."
 }
